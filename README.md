@@ -67,7 +67,7 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![скриншота 2](https://github.com/Mandarineccc/SQL1/blob/main/2.png)
+![скриншота 2](https://github.com/Mandarineccc/SQL1/blob/main/Снимок%20экрана%202025-03-06%20002333.png)
 
 
 ---
